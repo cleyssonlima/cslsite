@@ -20,11 +20,11 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "Cleysson Lima"
-intro = "Especialista em Banco de Dados"
-description = "Louco por tecnologia e principalmente coisas que abrangem dados, possui mais de 10 anos de experiência na área de TI, hoje é DBA PostgreSQL e outros bancos de dados.    "
+author = "CSL Soluções em Banco de Dados"
+intro = "Consultoria Especialiazada em Banco de Dados"
+description = "Cuidamos dos seus dados enquanto você dorme tranquilo, entre em contato e faça o seu orçamento."
 authorimage = "headshot.jpg"
-dateformat = "Maio 28, 2018"
+dateformat = "Fevereiro 27, 2019"
 
 ## Site Meta Settings
 [params.meta]
@@ -34,14 +34,13 @@ keywords = "cleyssonlima,blog,dba,postgresql,sql server,oracle,mysql,banco de da
 ## Social Accounts
 [params.social]
 github = "cleyssonlima"
-instagram = "cleyssonlima"
-linkedin = "cleyssonlima"
-twitter = "cleysson_lima"
+instagram = "cslsolucoesembd"
+twitter = "cslsolucoesembd"
 email = "cleyssondba@gmail.com"
 
 ## Extras
 [params.extra]
-copyright = "Direitos reservados © 2019 - Cleysson Lima" 
+copyright = "Direitos reservados © 2019 - CSL Soluções em BD" 
 poweredby = false
 highlightjs = false
 
