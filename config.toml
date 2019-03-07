@@ -29,14 +29,14 @@ dateformat = "Fevereiro 27, 2019"
 ## Site Meta Settings
 [params.meta]
 description = "CSL Soluções em Banco de Dados"
-keywords = "cleyssonlima,blog,dba,postgresql,sql server,oracle,mysql,banco de dados"
+keywords = "cleyssonlima,blog,dba,postgresql,sql server,oracle,mysql,banco de dados,consultoria,palestra"
 
 ## Social Accounts
 [params.social]
 github = "cleyssonlima"
 instagram = "cslsolucoesembd"
 twitter = "cslsolucoesembd"
-email = "cleyssondba@gmail.com"
+email = "contatos@cslsolucoesembd.com.br"
 
 ## Extras
 [params.extra]
