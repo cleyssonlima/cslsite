@@ -21,7 +21,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "CSL Soluções em Banco de Dados"
-intro = "Consultoria Especialiazada em Banco de Dados"
+intro = "Consultoria Especializada em Banco de Dados"
 description = "Cuidamos dos seus dados enquanto você dorme tranquilo, entre em contato e faça o seu orçamento."
 authorimage = "headshot.jpg"
 dateformat = "Fevereiro 27, 2019"
