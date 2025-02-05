@@ -1,6 +1,6 @@
 ## Basic Configuration
 baseurl = "https://www.cslsolucoesembd.com.br/"
-title = "CSL Soluções em Banco de Dados"
+title = "CSLDB Soluções em Banco de Dados"
 languageCode = "en-us"
 contentdir = "src/content"
 datadir = "src/data"
@@ -20,27 +20,27 @@ enableRobotsTXT = true
 
 ## Site Settings
 [params]
-author = "CSL Soluções em Banco de Dados"
+author = "CSLDB Soluções em Banco de Dados"
 intro = "Consultoria Especializada em Banco de Dados"
 description = "Cuidamos dos seus dados enquanto você dorme tranquilo, entre em contato e faça o seu orçamento."
-authorimage = "headshot.jpg"
+authorimage = "headshot.png"
 dateformat = "Fevereiro 27, 2019"
 
 ## Site Meta Settings
 [params.meta]
-description = "CSL Soluções em Banco de Dados"
-keywords = "cleyssonlima,blog,dba,postgresql,sql server,oracle,mysql,banco de dados,consultoria,palestra"
+description = "CSLDB Soluções em Banco de Dados"
+keywords = "cleyssonlima,blog,csldb,dba,postgresql,postgres,sql server,oracle,mysql,banco de dados,consultoria,palestra"
 
 ## Social Accounts
 [params.social]
 github = "cleyssonlima"
-instagram = "cslsolucoesembd"
-twitter = "cslsolucoesembd"
-email = "contatos@cslsolucoesembd.com.br"
+instagram = "pg_csldb"
+twitter = "pg_csldb"
+email = "cleyssonlima@csldb.com.br"
 
 ## Extras
 [params.extra]
-copyright = "Direitos reservados © 2019 - CSL Soluções em BD" 
+copyright = "Direitos reservados © 2019 - CSLDB Soluções em BD" 
 poweredby = false
 highlightjs = false
 
